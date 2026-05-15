@@ -13,7 +13,7 @@
 
 Large Language Models (LLMs) like GPT-4, Claude, and Gemini are powerful — but they hallucinate. They produce outputs that *sound* confident but are factually wrong, logically broken, or just made up. Existing solutions catch this poorly.
 
-**DualGuard-AI** proposes a patented dual-validation architecture that wraps around *any* LLM and gives every output a quantified trust score before it reaches the user or triggers an action.
+This model proposes a patented dual-validation architecture that wraps around *any* LLM and gives every output a quantified trust score before it reaches the user or triggers an action.
 
 No model retraining. No architecture changes. Plug it in and your LLM becomes self-verifying.
 
