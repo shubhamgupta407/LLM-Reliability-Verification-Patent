@@ -1,4 +1,3 @@
-# ⚡ DualGuard-AI
 ### Self-Verifying Large Language Model Systems with Inference-State Consistency Analysis and Multi-Signal Reliability Classification
 
 <p align="center">
