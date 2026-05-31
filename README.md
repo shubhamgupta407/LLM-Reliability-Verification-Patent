@@ -37,7 +37,9 @@ None of these combine *independent structural verification* with *internal infer
 
 ## 🏗️ System Architecture
 
-![System Architecture](figures/fig2_workflow_flowchart.png)
+<p align="center">
+  <img src="figures/fig2_workflow_flowchart.png" width="700" alt="System Architecture"/>
+</p>
 
 The system is built around **5 core modules** operating in a dual-channel pipeline:
 
