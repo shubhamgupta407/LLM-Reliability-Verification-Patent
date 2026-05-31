@@ -39,6 +39,8 @@ None of these combine *independent structural verification* with *internal infer
 
 <p align="center">
   <img src="figures/fig2_workflow_flowchart.png" width="700" alt="System Architecture"/>
+  <br/>
+  <i>Fig. 2 — End-to-end dual-validation workflow</i>
 </p>
 
 The system is built around **5 core modules** operating in a dual-channel pipeline:
